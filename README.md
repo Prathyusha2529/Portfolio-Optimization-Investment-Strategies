@@ -1,6 +1,4 @@
-# Investment-Strategy-Analysis
-
-# BDM Project: Portfolio Optimization and Investment Strategies
+**Portfolio Optimization and Investment Strategies**
 
 ## 📌 Project Overview
 This project explores multiple investment strategies to maximize portfolio returns while managing risks. By analyzing stock data from three distinct sectors—**Consumer Staples**, **Healthcare**, and **Communication Services**—over the period of 2017–2021, we employed techniques such as **Buy and Hold**, **Momentum Trading**, and **Portfolio Optimization**. The goal was to uncover valuable insights into the dynamics of the stock market and evaluate the effectiveness of various strategies.
